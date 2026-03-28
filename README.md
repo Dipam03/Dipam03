@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am DIPAM GHOSH a student of B.Tech CSE<br>Backend & Core Languages: python, javascript, Node.js, c/c++,react.js<br>Frameworks: Django, Express.js<br>Databases: Postgresql, MongoDB , Mysql<br>Cloud & DevOps : AWS, Git/Github
+I am DIPAM GHOSH ,a student of B.Tech CSE<br>Backend & Core Languages: python, javascript, Node.js, c/c++,react.js<br>Frameworks: Django, Express.js<br>Databases: Postgresql, MongoDB , Mysql<br>Cloud & DevOps : AWS, Git/Github
 
 
 ## 🌐 Socials:
